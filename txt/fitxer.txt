@@ -1,0 +1,6 @@
+Nombre: Juan Pérez
+Edad: 28
+Ciudad: Buenos Aires
+Ocupación: Desarrollador de Software
+Email: juan.perez@email.com
+Teléfono: +54 11 1234 5678
